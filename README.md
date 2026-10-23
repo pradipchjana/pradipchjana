@@ -20,6 +20,16 @@ I'm **Pradip Chandra Jana**, a software developer at **Thoughtworks**, currently
 
 ---
 
+### 🕹️ Dev Arcade
+
+A playable arcade of games and algorithm visualisations built from my own projects — Tic-Tac-Toe,
+Conway's Game of Life, Sudoku, a Sierpiński fractal lab, sorting/recursion visualisers and a few
+daily coding exercises.
+
+**[→ Play Dev Arcade](https://pradipchjana.github.io/dev-arcade/)** · [source](https://github.com/pradipchjana/dev-arcade)
+
+---
+
 ### 🐍 Contributions
 
 <p align="center">
