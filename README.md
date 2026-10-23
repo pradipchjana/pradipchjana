@@ -18,6 +18,14 @@
 
 ---
 
+### 🐍 Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pradipchjana/pradip1244/output/github-snake.svg" width="80%" alt="GitHub contribution snake" />
+</p>
+
+---
+
 ### 🛠️ Tech Stack
 
 <p align="left">
